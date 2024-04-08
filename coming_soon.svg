@@ -3,9 +3,12 @@
     <div width="800" style="margin: 0; padding: 0" xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
         margin: auto 0;
         padding: 0;
-          width: 800px;
+          width: 700px;
           height: 150px;
           background-color: black;
           color: white;
